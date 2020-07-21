@@ -2,7 +2,11 @@
 《too-many-lists》中文翻译
 
 
-**翻译：** https://chapin666.gitbook.io/too-many-list-zh/
+**翻译：** 
 
-**原文：** https://rust-unofficial.github.io/too-many-lists/
+https://chapin666.gitbook.io/too-many-list-zh/
+
+**原文：** 
+
+https://rust-unofficial.github.io/too-many-lists/
 
